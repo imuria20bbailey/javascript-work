@@ -28,6 +28,8 @@
         break;
     case 2:
         console.log('the elevator is at level 2, and its open for me')
+    default:
+        console.log('impossible to reach')
 
     
  }
@@ -37,3 +39,4 @@
   * just as ifs..and else are used in conditinals, switch satements use case clauses. 
   
   */
+
